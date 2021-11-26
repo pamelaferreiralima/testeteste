@@ -3,10 +3,11 @@
 
 main{
     font-family: 'Montserrat', sans-serif;
+    background-color: yellowgreen;
 }
 header{
     font-family: 'Playfair Display', serif;
-    background-color: hotpink;
+    background-color: white;
     width: 500px;
 }
 @media (max-width: 425px){
